@@ -24,9 +24,9 @@ Users can CRUD members via postman. Future implementations of this web app may i
 - a proper front-end
 
 
-Acknowledgements 
-Brad from Traversy Media
-[Express](https://expressjs.com/)
-[Node js](https://nodejs.org/en/)
+## Acknowledgements: 
+- Brad from Traversy Media
+- [Express](https://expressjs.com/)
+- [Node js](https://nodejs.org/en/)
 
 
